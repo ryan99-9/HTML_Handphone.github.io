@@ -153,6 +153,7 @@ body {
     border: 1px solid #f2f2f2;
     margin: 24px 16px;
     border-radius: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .card-head {
     background-color:  #D2EBF7;
@@ -180,7 +181,9 @@ body {
     color:  #374A59;
     margin: 24px 0 13px 0;
 }
-
+.video{
+    box-shadow: 0 4px 8px 0 rgba(14, 11, 230, 0.329), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 .contact-section {
     display: flex;
     flex-direction: column;
